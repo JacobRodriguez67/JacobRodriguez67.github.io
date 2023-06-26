@@ -30,4 +30,4 @@ By blending political intrigue, ecological concerns, religious undertones, and p
 ## References
 1. Wikipedia page for Dune (novel) (https://en.wikipedia.org/wiki/Dune_(novel))
 2. Wikipedia page for Dune (2021 film) (https://en.wikipedia.org/wiki/Dune_(2021_film))
-3. Sparknotes page for Dune (novel) (https://www.sparknotes.com/lit/dune/context/)
+3. Sparknotes for Dune (novel) (https://www.sparknotes.com/lit/dune/context/)
